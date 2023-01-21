@@ -2,7 +2,7 @@
 
 On top of building a successful career, historically excluded tech creators have to battle outdated expectations of who a tech creator is, what they ‘should’ look like, and what they ‘should’ know. 
 
-We’re committed to changing this — ~because it shouldn’t be this difficult.~
+We’re committed to changing this — _because it shouldn’t be this difficult._
 
 **Our vision is simple yet powerful:**
 
